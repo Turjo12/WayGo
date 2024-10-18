@@ -4,7 +4,7 @@
     "react/no-unescaped-entities": "off",
     "@next/next/no-img-element": "off",
     "react-hooks/exhaustive-deps": "warn",
-    "no-unused-vars": "off", // Turn off unused variable rule
+    "@typescript-eslint/no-unused-vars": "off",  // Disable the unused vars rule
     "@typescript-eslint/no-explicit-any": "warn"
   }
 }
